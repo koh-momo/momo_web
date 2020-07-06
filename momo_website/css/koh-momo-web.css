@@ -1,0 +1,88 @@
+.header{
+   height: 60px;
+   background-color:#080600;
+   display: flex;
+
+}
+.header nav{
+  margin:0 0 0 auto;
+}
+.main{
+  height:1000px;
+}
+.footer{
+   height: 60px;
+   background-color: #080600;
+   display: flex;
+}
+.main_icon{
+  padding-right: 70px;
+   width: 60px;
+
+}
+.footer_icon{
+  padding-right: 70px;
+   width: 60px;
+}
+#global-nav ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display:flex;
+
+}
+
+#global-nav ul li a{
+  display: block;
+  padding:22px 20px;
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 14px;
+  font-family:monospace;
+
+}
+#global-nav ul li a:hover{
+  color:#3d73ec;
+}
+#sns_links {
+  list-style-type: none;
+  display: flex;
+  margin: 0 0 0 auto;
+  padding:10px 20px;
+
+}
+#sns_links li a{
+  padding: 10px 10px;
+}
+#footer_links{
+  list-style-type: none;
+  display: flex;
+  margin: 0 20 0 auto;
+  padding:6px 20px;
+}
+#footer_links li a:hover{
+  color:#3d73ec;
+}
+.footer_link1{
+  padding:50px 10px;
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 14px;
+  font-family:monospace;
+
+}
+.footer_link2{
+  padding:50px 10px;
+  text-decoration: none;
+  color:#ffffff;
+  font-size: 14px;
+  font-family:monospace;
+}
+.twitter_icon{
+  width: 40px;
+
+}
+.insta_icon{
+  width: 36px;
+
+}
